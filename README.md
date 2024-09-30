@@ -21,11 +21,19 @@ Introdução ao JavaScript para uso básico
 
 ### Interna
 
-Programado dentro da própria página HTML usando a tag `<script>`, usada
-principalmente quando são scripts mais simples ou pequenos.
+Programado dentro da própria página HTML usando a tag `<script>`, usada principalmente quando são scripts mais simples ou pequenos.
 
 ### Externa
 
 programação feita dentro de arquivos JavaScript exclusivos (possuem a extensão **.JS**), usada principalmente quando queremos reutilizar scripts entre páginas HTML diferentes. A ligação entre o arquivo JavaScript e a página HTML também é feita usando a tag `<script>`. É a forma mais recomendada.
 
 **Obs.:** normalmente a progamação feita (ou ligada) **NO FINAL** da página HTML, portanto, pouco antes do fechamento `</body>`.
+
+
+---
+
+## Sobre Arrays
+
+Arrays são estruturas de dados **indexados**, também conhecidos como **vetores** ou **matrizes**.
+
+Na prática, um arrays é uma lista de dados sequenciais, e cada dado é armazenado em uma posição/índice do array.
