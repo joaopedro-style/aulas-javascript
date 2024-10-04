@@ -1,4 +1,4 @@
-//Declarando um array e aprendendo
+//Declarando um array
 let alunos = ["Jon Oliva","Ozzy Osbourne","Tom Array"];
 
 // Exibindo a estrutura do array
