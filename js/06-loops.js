@@ -87,14 +87,21 @@ console.log("\n---");
 
 let clientes = [
     {
-        id:1,
-        nome: "Goku"
-
+        nome: "Goku",
+        id:1
     },
     {
-        id:2,
-        nome: "Naruto"
+        nome: "Naruto",
+        id:2
+    },
+    {
+        nome: "Shiryu",
+        id:3,
     }
 ];
+
+for (const cliente of clientes ) {
+    console.log(`Cliente: ${cliente.nome}, id: ${cliente.id}`);
+};
 
 
